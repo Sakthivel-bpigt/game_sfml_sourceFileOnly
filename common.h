@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>game_sfml_oops/common.h at 674bc9c8c1a8fba6fd7191d64f0804be16c58b02 · Sakthivel-bpigt/game_sfml_oops</title>
+  <title>game_sfml_oops/common.h at 578a9e16f6750e33fde32d7f4f0b568a59c9fcca · Sakthivel-bpigt/game_sfml_oops</title>
     <meta name="description" content="simple game using C++ and SFML. Contribute to Sakthivel-bpigt/game_sfml_oops development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/25893493?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Sakthivel-bpigt/game_sfml_oops" /><meta property="og:url" content="https://github.com/Sakthivel-bpigt/game_sfml_oops" /><meta property="og:description" content="simple game using C++ and SFML. Contribute to Sakthivel-bpigt/game_sfml_oops development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY2MTM1ODM3OmNlZTEzM2E0NGU3N2QzZDY4NDExODViMWVlOGRjZDljZTdhYzljNmNkMzYyZGIwYjE2MzI1OWMyNWVlNjc5OTI=--9d5651d0973870bbcbd1c537b7be8c91a8536423">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY2MTM1ODM3OmY4MmIzMDAzNTVkODVjNDAzYTAyMWZjZjNiMGY2Yzc3OGQ4MzQ5NzdkODc1ODEyMWQyOWFkOTU5Y2FhOGY0ZmU=--37d8cd812a95066c269814f9d569b54822103fab">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="0A16:7776:493A1:78CF1:5C496693" data-pjax-transient>
+  <meta name="request-id" content="0A4B:7772:2972D:5F259:5C4967BC" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="0A16:7776:493A1:78CF1:5C496693" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="25893493" /><meta name="octolytics-actor-login" content="Sakthivel-bpigt" /><meta name="octolytics-actor-hash" content="74d13cc8aed368440831395bdb7adab75525e7785c19d56a99572afa5aab279d" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="0A4B:7772:2972D:5F259:5C4967BC" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="25893493" /><meta name="octolytics-actor-login" content="Sakthivel-bpigt" /><meta name="octolytics-actor-hash" content="74d13cc8aed368440831395bdb7adab75525e7785c19d56a99572afa5aab279d" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="Sakthivel-bpigt">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NmVhNzVmNjlkYTRhMjVmNGQ1Nzc1YjM0MzkxOThiNDY5MDE4YzVkYjk5N2Y3YWUwOWRlNzY2NjZlMWY4ZjdlM3x7InJlbW90ZV9hZGRyZXNzIjoiMTgzLjgyLjEyMC4yNTMiLCJyZXF1ZXN0X2lkIjoiMEExNjo3Nzc2OjQ5M0ExOjc4Q0YxOjVDNDk2NjkzIiwidGltZXN0YW1wIjoxNTQ4MzE0MjY3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="MGU3NjI0ZjA0ZWNlOGJmODNkZTYwOTY4NDdjMDkxNjRkYjRiMTA3NjM0ZjZkMDI0YThhNmMxMmYyN2E1ZDJiYXx7InJlbW90ZV9hZGRyZXNzIjoiMTgzLjgyLjEyMC4yNTMiLCJyZXF1ZXN0X2lkIjoiMEE0Qjo3NzcyOjI5NzJEOjVGMjU5OjVDNDk2N0JDIiwidGltZXN0YW1wIjoxNTQ4MzE0NTY0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="3a7ae192eb85c3d23dcc1318d8619bad">
   
 
-      <link href="https://github.com/Sakthivel-bpigt/game_sfml_oops/commits/674bc9c8c1a8fba6fd7191d64f0804be16c58b02.atom" rel="alternate" title="Recent Commits to game_sfml_oops:674bc9c8c1a8fba6fd7191d64f0804be16c58b02" type="application/atom+xml">
+      <link href="https://github.com/Sakthivel-bpigt/game_sfml_oops/commits/578a9e16f6750e33fde32d7f4f0b568a59c9fcca.atom" rel="alternate" title="Recent Commits to game_sfml_oops:578a9e16f6750e33fde32d7f4f0b568a59c9fcca" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/Sakthivel-bpigt/game_sfml_oops git https://github.com/Sakthivel-bpigt/game_sfml_oops.git">
 
   <meta name="octolytics-dimension-user_id" content="25893493" /><meta name="octolytics-dimension-user_login" content="Sakthivel-bpigt" /><meta name="octolytics-dimension-repository_id" content="136130573" /><meta name="octolytics-dimension-repository_nwo" content="Sakthivel-bpigt/game_sfml_oops" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="136130573" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Sakthivel-bpigt/game_sfml_oops" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
-    <link rel="canonical" href="https://github.com/Sakthivel-bpigt/game_sfml_oops/blob/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Sakthivel-bpigt/game_sfml_oops/blob/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -156,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=jdIWte9Q8dj13RVDIQHXO/m/l13mU7SrUy2KLnVVGp0UoVdv/3gWnt3amIzxIOHF0uoqiXTzpCkrMo+3a+6I8w=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=aVdud8fYp96Oqzgu21jfkOvYpqFysMvBF/dpui6gEhvwJC+t1/BAmKasteELeeluwI0bdeAQ20Nv6GwjMBuAdQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -386,7 +386,7 @@
       </div>
     </summary>
     <details-dialog class="anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="ozTLTUuJksGEoL6FkKU6bGLKwfnGIlIoUS7h17vqBh+m6L2ZcnBbUGXW+9msqDfBzMpLSwxF0bnoMS6bP9h7qQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="rZ94t4/+JmpNPA819WkBZigWAMjVKzKzvP9H1YpnciGoQw5jtgfv+6xKSmnJZAzLhhaKeh9MsSIF4IiZDlUPlw==" />
         <div class="Box-header">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -500,7 +500,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4umPG9ZsUqfNTAovmjQFxK6ALUUORmuzACc8gSkhbfxWWgGnIUFYhzLz1l6VnHgqu5iobQsHxm6iKUUMwebFFA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lFNQlNkxSpvZ96gSh2MY4gXq/XwjllEtSAYZwFxVf4Qg4N4oLhxAuyZIdGOIy2UMEPJ4VCbX/PDqCGBNtJLXbA==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -512,7 +512,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Mvof9H95/ytAK8ZbVLUjbtwYd9Gr3TaJeNxRkviBi5WGSZFIiFT1C7+UGipbHV6AyQDy+a6cm1Ta0igfEEYjfQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xrMndrxBheZPLVH9CGQYGWN/IWw2Awi4pnBbGzDVBy9yAKnKS2yPxrCSjYwHzGX3dmekRDNCpWUEfiKW2BKvxw==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -550,7 +550,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5DgNKe7iGb1ojbor9DOGp1rX3EFz8PLAkepu41b4h8/ARpN9tx29dHwHxQZK5RrQ/wwD/Sn6RvQynshZuDjwtg==" />      <input type="hidden" name="repository_id" id="repository_id" value="136130573" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rmIjw8plWXTNB3OCSL/UgGPIyI/tCtG9MkWhWsPbQOKKHL2Xk5r9vdmNDK/2aUj3xhMXM7cAZYmRMQfgLRs3mw==" />      <input type="hidden" name="repository_id" id="repository_id" value="136130573" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -624,7 +624,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="i9tpUMwnP8rd0AyKS5sen7oS/9XqSltdO75q1XTEoR/gGJZH4SW5xNP4XplRFxQ7FKJwPkjcjFghnJmyU5Jcqw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YlYFPOYkPzOk8m3dfhNqSrexpcWbktue+LU6ICoqjDIJlforyya5ParaP85kn2DuGQEqLjkEDJvil8lHDXxxhg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -639,7 +639,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1b6NLCWFx18bruvO23yWXo/Cm4xcO8iogTCx25esjpiDnv8sEfYisVYC8159zhXGqX+NluaIt1rBRhb/pLZAPw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wnJs/IVM0wZRhfE0fuzmIM18uzFtm8W43BF8l4pl1xmUUh78sT826Bwp6aTYXmW468GtK9coukqcZ9uzuX8Zvg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -761,21 +761,21 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Sakthivel-bpigt/game_sfml_oops/blob/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Sakthivel-bpigt/game_sfml_oops/blob/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:df4cf508f566e3aec326708f00ca69d3 -->
+    <!-- blob contrib key: blob_contributors:v21:256fe7a21246bdf9a9ee5bc4da2e582b -->
 
     
 
     <div class="file-navigation">
       
 <div class="select-menu branch-select-menu js-menu-container js-select-menu float-left js-load-contents"
-  data-contents-url="/Sakthivel-bpigt/game_sfml_oops/ref-list/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h?source_action=show&amp;source_controller=blob">
+  data-contents-url="/Sakthivel-bpigt/game_sfml_oops/ref-list/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h?source_action=show&amp;source_controller=blob">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
     
     type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
     <i>Tree:</i>
-    <span class="js-select-button css-truncate-target">674bc9c8c1</span>
+    <span class="js-select-button css-truncate-target">578a9e16f6</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
@@ -789,7 +789,7 @@
 </div>
 
       <div class="BtnGroup float-right">
-        <a href="/Sakthivel-bpigt/game_sfml_oops/find/674bc9c8c1a8fba6fd7191d64f0804be16c58b02"
+        <a href="/Sakthivel-bpigt/game_sfml_oops/find/578a9e16f6750e33fde32d7f4f0b568a59c9fcca"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -800,12 +800,12 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/674bc9c8c1a8fba6fd7191d64f0804be16c58b02"><span>game_sfml_oops</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test"><span>game_sfml_oops_test</span></a></span><span class="separator">/</span><strong class="final-path">common.h</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/578a9e16f6750e33fde32d7f4f0b568a59c9fcca"><span>game_sfml_oops</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test"><span>game_sfml_oops_test</span></a></span><span class="separator">/</span><strong class="final-path">common.h</strong>
       </div>
     </div>
 
 
-    <include-fragment src="/Sakthivel-bpigt/game_sfml_oops/contributors/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h" class="commit-tease commit-loader">
+    <include-fragment src="/Sakthivel-bpigt/game_sfml_oops/contributors/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h" class="commit-tease commit-loader">
       <div>
         Fetching contributors&hellip;
       </div>
@@ -826,9 +826,9 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/raw/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Sakthivel-bpigt/game_sfml_oops/blame/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/commits/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/raw/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Sakthivel-bpigt/game_sfml_oops/blame/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/commits/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h">History</a>
     </div>
 
         <button class="btn-octicon disabled tooltipped tooltipped-nw"
@@ -849,9 +849,9 @@
   </div>
 
   <div class="file-info">
-      12 lines (9 sloc)
+      13 lines (11 sloc)
       <span class="file-info-divider"></span>
-    197 Bytes
+    227 Bytes
   </div>
 </div>
 
@@ -862,36 +862,35 @@
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">//</span> program in C++</span></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">pragma</span> once</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>iostream<span class="pl-pds">&gt;</span></span></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">//</span> program in C++</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>cstring<span class="pl-pds">&gt;</span></span></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>iostream<span class="pl-pds">&gt;</span></span></td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>string<span class="pl-pds">&gt;</span></span></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>cstring<span class="pl-pds">&gt;</span></span></td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>cstdlib<span class="pl-pds">&gt;</span></span></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>string<span class="pl-pds">&gt;</span></span></td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>SFML/Graphics.hpp<span class="pl-pds">&gt;</span></span></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>vector<span class="pl-pds">&gt;</span></span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>cstdlib<span class="pl-pds">&gt;</span></span></td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">using</span> <span class="pl-k">namespace</span> <span class="pl-en">std</span><span class="pl-k">;</span></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>SFML/Graphics.hpp<span class="pl-pds">&gt;</span></span></td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
@@ -900,11 +899,20 @@
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">WINDOW_WIDTH</span> <span class="pl-c1">900</span></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">using</span> <span class="pl-k">namespace</span> <span class="pl-en">std</span><span class="pl-k">;</span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">WINDOW_HEIGHT</span> <span class="pl-c1">540</span></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">WINDOW_WIDTH</span> <span class="pl-c1">900</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">WINDOW_HEIGHT</span> <span class="pl-c1">540</span></td>
       </tr>
 </table>
 
@@ -916,7 +924,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Sakthivel-bpigt/game_sfml_oops/blame/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/common.h">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Sakthivel-bpigt/game_sfml_oops/blame/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/common.h">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Sakthivel-bpigt/game_sfml_oops/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -952,7 +960,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.37857s from unicorn-55676555d-fvxpj">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.44817s from unicorn-86f999688-5w6r4">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

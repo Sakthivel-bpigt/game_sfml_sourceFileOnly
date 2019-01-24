@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>game_sfml_oops/game.cpp at 674bc9c8c1a8fba6fd7191d64f0804be16c58b02 · Sakthivel-bpigt/game_sfml_oops</title>
+  <title>game_sfml_oops/game.cpp at 578a9e16f6750e33fde32d7f4f0b568a59c9fcca · Sakthivel-bpigt/game_sfml_oops</title>
     <meta name="description" content="simple game using C++ and SFML. Contribute to Sakthivel-bpigt/game_sfml_oops development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/25893493?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Sakthivel-bpigt/game_sfml_oops" /><meta property="og:url" content="https://github.com/Sakthivel-bpigt/game_sfml_oops" /><meta property="og:description" content="simple game using C++ and SFML. Contribute to Sakthivel-bpigt/game_sfml_oops development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY2MTM1ODM3OmMzYTVkZTViM2VhOGU5ZDk4NjY1YzY0Y2YyNzM3MmViMDNkNDQ1YWVjODI3NTFmMzFhMDBmYzBjYTBiYWU4Njg=--c56e029ac4df94b5ee225688c947fce4a0992394">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY2MTM1ODM3OmI3ZDA2NTJhODQ1ZmUwODA1MjJkNzg1NzNjYTE1MDAxYWY2NjA0ZDdiOTdkMTQxYTZmNzc0Yzc1NjU5YmU5Mjc=--83b30d6a551fcc49a8041b94ab2821d5c57b68f1">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="0A16:7776:49204:78B11:5C49668D" data-pjax-transient>
+  <meta name="request-id" content="0A4B:7772:29643:5F0DD:5C4967B7" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="0A16:7776:49204:78B11:5C49668D" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="25893493" /><meta name="octolytics-actor-login" content="Sakthivel-bpigt" /><meta name="octolytics-actor-hash" content="74d13cc8aed368440831395bdb7adab75525e7785c19d56a99572afa5aab279d" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="0A4B:7772:29643:5F0DD:5C4967B7" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="25893493" /><meta name="octolytics-actor-login" content="Sakthivel-bpigt" /><meta name="octolytics-actor-hash" content="74d13cc8aed368440831395bdb7adab75525e7785c19d56a99572afa5aab279d" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="Sakthivel-bpigt">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZWU3ZWMwOTFlMzA1ODg0MjViYjllYWY0ZjVjMWYzODYwNzIxYzM5M2NjNDU0ZWJiZGQwY2ZjNDQ3MjE1MzBlYnx7InJlbW90ZV9hZGRyZXNzIjoiMTgzLjgyLjEyMC4yNTMiLCJyZXF1ZXN0X2lkIjoiMEExNjo3Nzc2OjQ5MjA0Ojc4QjExOjVDNDk2NjhEIiwidGltZXN0YW1wIjoxNTQ4MzE0MjU5LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="NzAwYTdkYzZmZGJiNDZjMzZiZDUxYjkyMDU5YjE4NmQzMjYwZjhmZGRhZDgxM2ExMjdkODViZmFiMWRhM2M4OHx7InJlbW90ZV9hZGRyZXNzIjoiMTgzLjgyLjEyMC4yNTMiLCJyZXF1ZXN0X2lkIjoiMEE0Qjo3NzcyOjI5NjQzOjVGMEREOjVDNDk2N0I3IiwidGltZXN0YW1wIjoxNTQ4MzE0NTU1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="3a7ae192eb85c3d23dcc1318d8619bad">
   
 
-      <link href="https://github.com/Sakthivel-bpigt/game_sfml_oops/commits/674bc9c8c1a8fba6fd7191d64f0804be16c58b02.atom" rel="alternate" title="Recent Commits to game_sfml_oops:674bc9c8c1a8fba6fd7191d64f0804be16c58b02" type="application/atom+xml">
+      <link href="https://github.com/Sakthivel-bpigt/game_sfml_oops/commits/578a9e16f6750e33fde32d7f4f0b568a59c9fcca.atom" rel="alternate" title="Recent Commits to game_sfml_oops:578a9e16f6750e33fde32d7f4f0b568a59c9fcca" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/Sakthivel-bpigt/game_sfml_oops git https://github.com/Sakthivel-bpigt/game_sfml_oops.git">
 
   <meta name="octolytics-dimension-user_id" content="25893493" /><meta name="octolytics-dimension-user_login" content="Sakthivel-bpigt" /><meta name="octolytics-dimension-repository_id" content="136130573" /><meta name="octolytics-dimension-repository_nwo" content="Sakthivel-bpigt/game_sfml_oops" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="136130573" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Sakthivel-bpigt/game_sfml_oops" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
-    <link rel="canonical" href="https://github.com/Sakthivel-bpigt/game_sfml_oops/blob/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Sakthivel-bpigt/game_sfml_oops/blob/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -156,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=e4UX2NzwF/XGVlMZAOaZyN4a0lqNUcFqXG7C1i2dacri9lYCzNjws+5R3tbQx6829U9vjh/x0egkccdPMyb7pA=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=9tHA3HC+Meit7TBayzN6yFok5zMYx+vkIIOLfH85tAVvooEGYJbWroXqvZUbEkw2cXFa54pn+2ZYnI7lYYImaw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -386,7 +386,7 @@
       </div>
     </summary>
     <details-dialog class="anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="RvUJ38C6Fk6w/1bbMDKQs3VYmjunl+ekTnBFupyPiMpDKX8L+UPf31GJE4cMP50e21gQiW3wZDX3b4r2GL31fA==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="R7Wmr/7lbNbnoSQXpO4Rluo3Lic8VFWGbrEJgDRBtc9CadB7xxylRwbXYUuY4xw7RDeklfYz1hfXrsbMsHPIeQ==" />
         <div class="Box-header">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -500,7 +500,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GScSZj3jdLk9BSlSQ/EiaAorSM5BKcc1Y4RrSheTL9KtlJzays5+mcK69SNMWV+GHzPN5kRoaujBihLH/1SHOg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Il7SLMiy6DWeGGYIWCxmjoUBr1mPu0XesiK1M1DA7XaW7VyQP5/iFWGnunlXhBtgkBkqcYr66AMQLMy+uAdFng==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -512,7 +512,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="l2RaAs7tdwxYCwr4ikv+hznoGgySwu7K3Juf2EHMLn0j19S+OcB9LKe01omF44NpLPCfJJeDQxd+leZVqQuGlQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RQ8niOJogjH9FHFupJ74b5D4Y9FgkmgCkG8JqT3wjevxvKk0FUWIEQKrrR+rNoWBheDm+WXTxd8yYXAk1TclAw==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -550,7 +550,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="kr9BSM2W22oT6Sd6Ww+P7XY5kFGQ7O3Ezsc3xdQWsfK2wd8clGl/owdjWFfl2ROa0+JP7crmWfBts5F/OtbGiw==" />      <input type="hidden" name="repository_id" id="repository_id" value="136130573" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="S3xKbOokWjlktOCH3U66ZmmMBhliPZJIFim+HZTwqwtvAtQ4s9v+8HA+n6pjmCYRzFfZpTg3Jny1XRinejDccg==" />      <input type="hidden" name="repository_id" id="repository_id" value="136130573" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -624,7 +624,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="h665lGgurxg5q9KJRJEBVyUH3xGDcf200T5OFNTiXFvsbUaDRSwpFjeDgJpeHQvzi7dQ+iHnKrHLHL1z87Sh7w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Hs5AmBWvlmSkxZFjYDm69aJA/8pkn8Uvni5xl9A4KIR1Db+POK0Qaqrtw3B6tbBRDPBwIcYJEiqEDILw927VMA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -639,7 +639,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="by9gUowwXdhkVB8YkZKjfRCOWuFo1J0YEzw27MfTgAc5DxJSuEO4Nin4B4g3ICDlNjNM+9Jn4upTSpHI9MlOoA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Sakthivel-bpigt/game_sfml_oops/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="X47SPjkuwquH6oiihQZG4fi+I5QCcZGXHdzgPGBKGCsJrqA+DV0nRcpGkDIjtMV53gM1jrjC7mVdqkcYU1DWjA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -761,21 +761,21 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Sakthivel-bpigt/game_sfml_oops/blob/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Sakthivel-bpigt/game_sfml_oops/blob/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:27d8f35cde234da675ef6d2bef6e1d65 -->
+    <!-- blob contrib key: blob_contributors:v21:7e15af3254f6c5de13344ffc678a7cfe -->
 
     
 
     <div class="file-navigation">
       
 <div class="select-menu branch-select-menu js-menu-container js-select-menu float-left js-load-contents"
-  data-contents-url="/Sakthivel-bpigt/game_sfml_oops/ref-list/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp?source_action=show&amp;source_controller=blob">
+  data-contents-url="/Sakthivel-bpigt/game_sfml_oops/ref-list/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp?source_action=show&amp;source_controller=blob">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
     
     type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
     <i>Tree:</i>
-    <span class="js-select-button css-truncate-target">674bc9c8c1</span>
+    <span class="js-select-button css-truncate-target">578a9e16f6</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
@@ -789,7 +789,7 @@
 </div>
 
       <div class="BtnGroup float-right">
-        <a href="/Sakthivel-bpigt/game_sfml_oops/find/674bc9c8c1a8fba6fd7191d64f0804be16c58b02"
+        <a href="/Sakthivel-bpigt/game_sfml_oops/find/578a9e16f6750e33fde32d7f4f0b568a59c9fcca"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -800,12 +800,12 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/674bc9c8c1a8fba6fd7191d64f0804be16c58b02"><span>game_sfml_oops</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test"><span>game_sfml_oops_test</span></a></span><span class="separator">/</span><strong class="final-path">game.cpp</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/578a9e16f6750e33fde32d7f4f0b568a59c9fcca"><span>game_sfml_oops</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/Sakthivel-bpigt/game_sfml_oops/tree/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test"><span>game_sfml_oops_test</span></a></span><span class="separator">/</span><strong class="final-path">game.cpp</strong>
       </div>
     </div>
 
 
-    <include-fragment src="/Sakthivel-bpigt/game_sfml_oops/contributors/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp" class="commit-tease commit-loader">
+    <include-fragment src="/Sakthivel-bpigt/game_sfml_oops/contributors/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp" class="commit-tease commit-loader">
       <div>
         Fetching contributors&hellip;
       </div>
@@ -826,9 +826,9 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/raw/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Sakthivel-bpigt/game_sfml_oops/blame/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/commits/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/raw/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Sakthivel-bpigt/game_sfml_oops/blame/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Sakthivel-bpigt/game_sfml_oops/commits/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp">History</a>
     </div>
 
         <button class="btn-octicon disabled tooltipped tooltipped-nw"
@@ -849,9 +849,9 @@
   </div>
 
   <div class="file-info">
-      36 lines (28 sloc)
+      37 lines (29 sloc)
       <span class="file-info-divider"></span>
-    514 Bytes
+    569 Bytes
   </div>
 </div>
 
@@ -927,7 +927,7 @@
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">	 window.<span class="pl-c1">create</span>(<span class="pl-c1">sf::VideoMode</span>(WINDOW_WIDTH, WINDOW_HEIGHT), <span class="pl-s"><span class="pl-pds">&quot;</span>Brick shooter<span class="pl-pds">&quot;</span></span>);</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">	 gameWindow.<span class="pl-c1">create</span>(<span class="pl-c1">sf::VideoMode</span>(WINDOW_WIDTH, WINDOW_HEIGHT), <span class="pl-s"><span class="pl-pds">&quot;</span>Brick shooter<span class="pl-pds">&quot;</span></span>);</td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
@@ -952,7 +952,7 @@
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (window.<span class="pl-c1">isOpen</span>())</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (gameWindow.<span class="pl-c1">isOpen</span>())</td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
@@ -969,7 +969,7 @@
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">while</span> (window.<span class="pl-c1">pollEvent</span>(event))</td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">while</span> (gameWindow.<span class="pl-c1">pollEvent</span>(event))</td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
@@ -981,7 +981,7 @@
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">                window.<span class="pl-c1">close</span>();</td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">                gameWindow.<span class="pl-c1">close</span>();</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
@@ -994,23 +994,27 @@
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">		window.<span class="pl-c1">clear</span>();</td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">		gameWindow.<span class="pl-c1">clear</span>();</td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">		window.<span class="pl-c1">draw</span>(windowSp.<span class="pl-c1">get</span>());</td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">		gameWindow.<span class="pl-c1">draw</span>(windowSp.<span class="pl-c1">get</span>());</td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">		window.<span class="pl-c1">display</span>();</td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">		bricks.<span class="pl-c1">draw</span>(gameWindow);</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">	}</td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">		gameWindow.<span class="pl-c1">display</span>();</td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">	}</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
 </table>
 
@@ -1022,7 +1026,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Sakthivel-bpigt/game_sfml_oops/blame/674bc9c8c1a8fba6fd7191d64f0804be16c58b02/game_sfml_oops_test/game.cpp">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Sakthivel-bpigt/game_sfml_oops/blame/578a9e16f6750e33fde32d7f4f0b568a59c9fcca/game_sfml_oops_test/game.cpp">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Sakthivel-bpigt/game_sfml_oops/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1058,7 +1062,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.31274s from unicorn-6667c5d6c4-ghbtl">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.31689s from unicorn-86f999688-wcs6n">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
